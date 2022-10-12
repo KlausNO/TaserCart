@@ -27,5 +27,5 @@ You can add your own notification system
 
 #example
 
-exports['okokNotify']:Alert('Title', 'Message', Time, 'type')
-exports['mythic_notify']:DoHudText('type', 'message')
+--exports['okokNotify']:Alert('Title', 'Message', Time, 'type')
+--exports['mythic_notify']:DoHudText('type', 'message')
