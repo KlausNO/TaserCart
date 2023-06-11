@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author 'L1 & ItssJxstn'
+author 'klaus'
 description 'QBCore taser script'
 version '1.0.0'
 
